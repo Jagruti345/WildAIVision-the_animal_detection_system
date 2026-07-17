@@ -26,21 +26,19 @@ AI-powered web application that detects animals from uploaded images using a ser
 
 # 📸 Project Preview
 
-## 🏠 Home Page
-
-<img src="screenshots/home.png" width="100%">
+<img src="https://github.com/user-attachments/assets/e52958fc-3ad4-4091-8c32-10a76cbedf0e" width="100%">
 
 ---
 
 ## 📤 Upload Animal Image
 
-<img src="screenshots/upload.png" width="100%">
+<img src="https://github.com/user-attachments/assets/bb958fa2-795c-4e89-8e24-89956d733e9d" width="100%">
 
 ---
 
 ## 🔍 Detection Result
 
-<img src="screenshots/result.png" width="100%">
+<img src="https://github.com/user-attachments/assets/f0011630-8c0f-4f29-b573-7bb018286167" width="100%">
 
 ---
 
@@ -187,11 +185,11 @@ Every push to the **main** branch automatically deploys the latest frontend to t
 
 | Home Page | Upload |
 |-----------|--------|
-| <img src="screenshots/home.png"> | <img src="screenshots/upload.png"> |
+| <img src="https://github.com/user-attachments/assets/e52958fc-3ad4-4091-8c32-10a76cbedf0e" width="100%"> | <img src="https://github.com/user-attachments/assets/bb958fa2-795c-4e89-8e24-89956d733e9d" width="100%"> |
 
 | Detection Result | Mobile View |
 |------------------|-------------|
-| <img src="screenshots/result.png"> | <img src="screenshots/mobile.png" width="250"> |
+| <img src="https://github.com/user-attachments/assets/f0011630-8c0f-4f29-b573-7bb018286167" width="100%"> | <img src="https://github.com/user-attachments/assets/b138e05f-4925-4993-98e8-c2944ae1de44" width="100%"> |
 
 ---
 
